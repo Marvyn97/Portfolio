@@ -22,7 +22,8 @@ const About = () => {
                 <small>5 projets complété</small>
               </article>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet optio odio, reprehenderit quo natus excepturi quia eaque veritatis laboriosam repellendus ab voluptatum cum accusantium. Doloremque facere architecto quia modi iste.</p>
+            <p>Après une formation intensive de développeur full-stack d'un durée de 3 mois je recherche une entreprise pour une formation de concepteur
+               développeur d'application à la 3W academy pour une durée de 2 ans en alternance. Cette formation me permettra de développer mes compétences et d'acquérir de l'expérience.</p>
             <a href='#contact' className=' btn btn_primary'>Me contacter</a>
           </div>
       </div>
