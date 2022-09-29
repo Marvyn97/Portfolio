@@ -5,7 +5,7 @@ import './skills.css';
 const Skills = () => {
   return (
     <section id='skills'>
-      <h2>compétences</h2>
+      <h2>Compétences</h2>
       <div className='container experience_container'>
         <div className='experience_frontend'>
           <h3>Développement Front-end</h3>
